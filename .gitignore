@@ -1,0 +1,42 @@
+# Ignore cloned repos folder
+..\_repos\
+
+# Dependencies
+node_modules\
+.venv\
+venv\
+vendor\
+
+# Build outputs
+dist\
+build\
+bin\
+obj\
+coverage\
+.next\
+out\
+
+# Secrets and credentials
+*.pem
+*.pfx
+*.key
+.env*
+secrets*
+*.secret
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode\
+.idea\
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Git
+.git\
