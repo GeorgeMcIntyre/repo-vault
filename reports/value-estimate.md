@@ -1,6 +1,6 @@
 ﻿# Portfolio Value Estimate
 
-**Generated:** 2026-01-31 21:03:45
+**Generated:** 2026-01-31 21:55:12
 
 ## Methodology
 
@@ -33,9 +33,9 @@ This estimate calculates the replacement cost of the entire repository portfolio
 
 | Tier | Total Value (ZAR) |
 |------|-------------------|
-| Low | R 11 292 660 |
-| Mid | R 18 821 100 |
-| High | R 30 113 760 |
+| Low | R 14 522 130 |
+| Mid | R 24 203 550 |
+| High | R 38 725 680 |
 
 ## Breakdown by Repository
 
@@ -47,20 +47,20 @@ Top 20 repositories by mid-tier value:
 | 2 | GeorgeMcIntyre-Web | kinetiCORE | 288977 | 1260 | 78 | 1495.2 | R 1 121 400 |
 | 3 | Process-Simulation | CoreCubicS | 264687 | 386 | 60 | 1344.0 | R 1 008 000 |
 | 4 | houseplantstore | theplantstore | 54576 | 149 | 74 | 1330.1 | R 997 575 |
-| 5 | DesignEngineeringTool | DesignGroupAccelerator | 128925 | 100 | 49 | 1251.6 | R 938 700 |
-| 6 | Process-Simulation | RaveRelicAddOLP | 159606 | 231 | 47 | 1234.8 | R 926 100 |
-| 7 | Process-Simulation | CustomLineSimulation | 124631 | 6 | 41 | 1184.4 | R 888 300 |
-| 8 | Process-Simulation | FordFanuc-PS-XML-s | 56816 | 159 | 48 | 1176.9 | R 882 675 |
-| 9 | Allen-Bradley | LogixCodeGenerator | 1431282 | 26 | 40 | 1176.0 | R 882 000 |
-| 10 | GeorgeMcIntyre-Web | aurora_invest_app | 38092 | 122 | 72 | 917.4 | R 688 050 |
-| 11 | GeorgeMcIntyre-Web | fire-protection | 31734 | 60 | 72 | 764.5 | R 573 375 |
-| 12 | Process-Simulation | CustomGeneralCls | 32395 | 169 | 49 | 675.9 | R 506 925 |
-| 13 | Process-Simulation | CustomKawasaki | 29108 | 15 | 45 | 590.7 | R 443 025 |
-| 14 | Process-Simulation | BMWButtons | 29434 | 8 | 42 | 585.5 | R 439 125 |
-| 15 | Process-Simulation | FordFanucVOSS-NextGen | 30737 | 3 | 36 | 585.5 | R 439 125 |
-| 16 | GeorgeMcIntyre-Web | SimTreeNav | 22811 | 133 | 72 | 549.0 | R 411 750 |
-| 17 | GeorgeMcIntyre-Web | NitroAGI | 24227 | 25 | 61 | 546.6 | R 409 950 |
-| 18 | GeorgeMcIntyre-Web | SimuPro-Industrial-Suite | 26533 | 11 | 46 | 542.7 | R 407 025 |
-| 19 | Process-Simulation | CustomKawasaki_2020 | 25563 | 26 | 38 | 493.6 | R 370 200 |
-| 20 | GeorgeMcIntyre-Web | urbane-jungle | 22184 | 37 | 46 | 453.8 | R 340 350 |
+| 5 | Design-Int-Group | DesignGroupLicencing | 59433 | 233 | 55 | 1290.1 | R 967 575 |
+| 6 | Design-Int-Group | ModelAnalyzer3D | 452605 | 116 | 53 | 1285.2 | R 963 900 |
+| 7 | DesignEngineeringTool | DesignGroupAccelerator | 128925 | 100 | 49 | 1251.6 | R 938 700 |
+| 8 | Process-Simulation | RaveRelicAddOLP | 159606 | 231 | 47 | 1234.8 | R 926 100 |
+| 9 | Design-Int-Group | KawaSpot | 4042819 | 59 | 45 | 1218.0 | R 913 500 |
+| 10 | DES-Group-Systems | ERP | 1086283 | 2 | 43 | 1201.2 | R 900 900 |
+| 11 | Process-Simulation | CustomLineSimulation | 124631 | 6 | 41 | 1184.4 | R 888 300 |
+| 12 | Process-Simulation | FordFanuc-PS-XML-s | 56816 | 159 | 48 | 1176.9 | R 882 675 |
+| 13 | Allen-Bradley | LogixCodeGenerator | 1431282 | 26 | 40 | 1176.0 | R 882 000 |
+| 14 | GeorgeMcIntyre-Web | aurora_invest_app | 38092 | 122 | 72 | 917.4 | R 688 050 |
+| 15 | Design-Int-Group | tree-sitter-FanucTP | 33617 | 115 | 73 | 813.8 | R 610 350 |
+| 16 | GeorgeMcIntyre-Web | fire-protection | 31734 | 60 | 72 | 764.5 | R 573 375 |
+| 17 | Design-Int-Group | WebGLKinematics | 35399 | 1280 | 47 | 728.5 | R 546 375 |
+| 18 | Process-Simulation | CustomGeneralCls | 32395 | 169 | 49 | 675.9 | R 506 925 |
+| 19 | Process-Simulation | CustomKawasaki | 29108 | 15 | 45 | 590.7 | R 443 025 |
+| 20 | Process-Simulation | FordFanucVOSS-NextGen | 30737 | 3 | 36 | 585.5 | R 439 125 |
 

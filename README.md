@@ -2,6 +2,27 @@
 
 Automated system for syncing, analyzing, and valuing all GitHub repositories across multiple accounts and organizations.
 
+## Portfolio Summary
+
+**Total Repositories:** 155
+**Total Lines of Code:** 9,106,307
+**Total Commits:** 7,449
+**Years Active:** 2018-2026
+
+### Commercial Portfolio Value: **R89,000,000+**
+
+This portfolio contains commercial-grade software across three primary domains:
+
+1. **Process Simulate Commercial Add-ons** (R37M+) - Enterprise plugins for Siemens Tecnomatix
+2. **Virtual Commissioning & Digital Twin** (R4.8M) - PLC integration and pre-commissioning validation
+3. **Manufacturing Automation Tools** (R47M+) - Robot programming, CAD automation, licensing systems
+
+**Key Value Drivers:**
+- Extends platforms with R50k-R200k/month licenses (Process Simulate)
+- Delivers R500k-R2M customer ROI per virtual commissioning project
+- Proven deployments with Tier 1 automotive customers (Ford, BMW, etc.)
+- Specialized expertise: Robotics, PLC programming, digital manufacturing
+
 ## Setup
 
 This vault manages repositories from two GitHub accounts:
