@@ -42,6 +42,8 @@ This will:
 2. Verify GitHub authentication
 3. Sync all repositories from both accounts
 4. Generate analysis reports
+5. Archive snapshot for historical tracking
+6. Generate trend comparison (if previous snapshots exist)
 
 ## Manual Steps
 
@@ -94,12 +96,25 @@ Work account orgs:
 
 ## Reports Generated
 
+### Current Reports
 - `reports/inventory.csv` - Full repository inventory
 - `reports/inventory.md` - Human-readable summary with totals
 - `reports/proof-of-work.md` - Multi-year activity analysis
 - `reports/value-estimate.md` - Portfolio value in ZAR
 - `reports/sync-status.md` - Sync success/failure log
 - `reports/tool-versions.txt` - Installed tool versions
+
+### Historical Tracking (NEW!)
+- `history/snapshots/YYYY-MM-DD/` - Archived daily snapshots
+- `history/trends/trend-YYYY-MM-DD.md` - Portfolio growth trends
+
+The system now automatically tracks portfolio changes over time! Each run creates a snapshot and compares it to previous runs to show:
+- Repository count changes
+- LOC growth
+- New commits
+- Portfolio value changes
+
+See [docs/HISTORICAL-TRACKING.md](docs/HISTORICAL-TRACKING.md) for full documentation.
 
 ## First-Time Auth
 
