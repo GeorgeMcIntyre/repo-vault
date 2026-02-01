@@ -1,6 +1,6 @@
 ﻿# Portfolio Value Estimate
 
-**Generated:** 2026-01-31 21:55:12
+**Generated:** 2026-02-01 05:33:33
 
 ## Methodology
 
@@ -33,9 +33,9 @@ This estimate calculates the replacement cost of the entire repository portfolio
 
 | Tier | Total Value (ZAR) |
 |------|-------------------|
-| Low | R 14 522 130 |
-| Mid | R 24 203 550 |
-| High | R 38 725 680 |
+| Low | R 14 541 255 |
+| Mid | R 24 235 425 |
+| High | R 38 776 680 |
 
 ## Breakdown by Repository
 
